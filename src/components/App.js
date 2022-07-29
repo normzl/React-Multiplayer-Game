@@ -165,10 +165,10 @@ class App extends React.Component {
                     <a
                       target="_blank"
                       rel="noopener noreferrer"
-                      href="https://lastnamearya.github.io/"
+                      href="https://twitter.com/kokoshuffg/"
                       style={{ textDecoration: 'none' }}
                     >
-                      <span id="lastnamearya">lastnamearya</span>
+                      <span id="CetsFlipCoin">lastnamearya</span>
                     </a>
                     &nbsp;
                   </p>
